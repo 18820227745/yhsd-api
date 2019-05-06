@@ -1,0 +1,59 @@
+{
+  "_args": [
+    [
+      "yhsd-api@1.0.5",
+      "/Users/xulong/work/code/electron_jizhu_import_customers/resources/app"
+    ]
+  ],
+  "_from": "yhsd-api@1.0.5",
+  "_id": "yhsd-api@1.0.5",
+  "_inBundle": false,
+  "_integrity": "sha1-I1QOwoayNkC/2umoQZ5hZ8NfT0k=",
+  "_location": "/yhsd-api",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "yhsd-api@1.0.5",
+    "name": "yhsd-api",
+    "escapedName": "yhsd-api",
+    "rawSpec": "1.0.5",
+    "saveSpec": null,
+    "fetchSpec": "1.0.5"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "http://registry.npm.taobao.org/yhsd-api/download/yhsd-api-1.0.5.tgz",
+  "_spec": "1.0.5",
+  "_where": "/Users/xulong/work/code/electron_jizhu_import_customers/resources/app",
+  "author": {
+    "name": "Yeezon, Inc."
+  },
+  "bugs": {
+    "url": "https://github.com/yeezon/yhsd-api-node/issues"
+  },
+  "dependencies": {},
+  "description": "Youhaosuda API SDK for node.",
+  "devDependencies": {
+    "istanbul": "^0.4.1",
+    "mocha": "^2.3.4",
+    "should": "^8.0.2"
+  },
+  "homepage": "https://github.com/yeezon/yhsd-api-node#readme",
+  "keywords": [
+    "youhaosuda",
+    "api"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "yhsd-api",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yeezon/yhsd-api-node.git"
+  },
+  "scripts": {
+    "test": " ./node_modules/.bin/istanbul cover ./node_modules/.bin/_mocha --report lcovonly -- --timeout 1500000"
+  },
+  "version": "1.0.5"
+}
