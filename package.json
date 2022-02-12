@@ -24,7 +24,7 @@
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "http://registry.npm.taobao.org/yhsd-api/download/yhsd-api-1.0.5.tgz",
+  "_resolved": "https://registry.npmmirror.com/yhsd-api/download/yhsd-api-1.0.5.tgz",
   "_spec": "1.0.5",
   "_where": "/Users/xulong/work/code/electron_jizhu_import_customers/resources/app",
   "author": {
